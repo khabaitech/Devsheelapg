@@ -53,11 +53,10 @@
                                     <ul class="footer-list">
                                         <li><a href="index.html">Home</a></li>
                                          <li><a href="about.html">About </a></li>
-                                        <li><a href="why-livesta.html">Kitchen </a></li>
                                         <li><a href="facilities.html">Facilities</a></li>
                                         <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="contact-livesta.html">Locations</a></li>
-                                        <li><a href="book-a-tour.html">Contact Us</a></li>
+                                        <li><a href="kitchen.html">Kitchen</a></li>
+                                        <li><a href="contact-devsheela.html">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -117,7 +116,7 @@ form.reset();
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Copyright © 2021<a href="devsheelapg.com">devsheelapg</a> | Made with <i class="fa fa-heart"></i> by <a href="http://www.khabaitech.com/" target="_blank" >Khabai Tech</a>
+                                    Copyright © 2021<a href="devsheelapg.com">Devsheelapg</a> | Made with <i class="fa fa-heart"></i> by <a href="http://www.khabaitech.com/" target="_blank" >Khabai Tech</a>
                                 </p>
                             </div>
                         </div>

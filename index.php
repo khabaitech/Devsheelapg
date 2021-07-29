@@ -92,7 +92,7 @@
                                             </div>
                                             <!-- layer 3 -->
                                             <div class="layer-1-3">
-                                                <a href="contact-livesta.html" class="ready-btn left-btn" >Contact Us</a>
+                                                <a href="contact-devsheela.html" class="ready-btn left-btn" >Contact Us</a>
                                                 <a href="facilities.html" class="ready-btn right-btn" >Facilities</a>
                                             </div>
                                         </div>

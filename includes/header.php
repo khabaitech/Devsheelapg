@@ -68,9 +68,9 @@
                                     <div class="main-menu">
                                         <ul class="nav navbar-nav navbar-right">
                                     <li class=" active"><a class="pagess" href="index.html">Home</a></li>
-                                            <li class=" "><a href="why-livesta.html">Why Devsheela</a></li>
+                                            <li class=" "><a href="why-devsheela.html">Why Devsheela</a></li>
                                             <li class=" "><a href="facilities.html">Facilities</a></li>
-                                            <li><a class="pagess" href="location.html">Locations</a>
+                                            <li><a class="pagess" href="kitchen.html">Kitchen</a>
                                                 <!--<ul class="sub-menu">-->
                                                 <!--    <li><a href="kothanur.html">Kothanur</a></li>-->
                                                 <!--    <li><a href="nagawara.html">Nagawara</a></li>-->
