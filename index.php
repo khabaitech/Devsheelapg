@@ -42,7 +42,7 @@
 	</head>
 		<body>
 
-
+<h1>hello</h1>
        <?php include('includes/header.php');?>
        
         <!-- Start Slider Area -->
