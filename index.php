@@ -118,7 +118,7 @@
                                     <i class="  fa fa-handshake-o"></i>
                                 </a>
                                 <div class="service-content">
-                                    <h4><a>LIVESTA build on a Noble concept of comfortable & dynamic Living spaces. 
+                                    <h4><a>Devsheela build on a Noble concept of comfortable & dynamic Living spaces. 
 Itis home away from home; crafted with love, designed beautifully and 
 Serviced with all facilities. 
 </a></h4>
@@ -131,7 +131,7 @@ Serviced with all facilities.
                                     <i class="fa fa-signing"></i>
                                 </a>
                                 <div class="service-content">
-                                    <h4><a>Livesta makes your living as comfortable and pleasant as possible. 
+                                    <h4><a>Devsheela makes your living as comfortable and pleasant as possible. 
 Our focus is on creating a sense of community living that you love.<br><br>  
 </a></h4>
                                 </div>
@@ -320,10 +320,10 @@ Our focus is on creating a sense of community living that you love.<br><br>
                                         <a href="#"><i class="icon icon-star"></i></a>
                                     </div>
                                     <div class="testi-text">
-                                        <p>Livesta is one of the best place youcan stay near Kristujayanti College, Kothannur. <br>
-The Comfort level with top class Facilities are properly provided. Here we have Good environment and better ambience for living. Every ‘Livestian’ are very happy to be a part of it. <br>
+                                        <p>Devsheela is one of the best place youcan stay at 1<sup>st</sup> Phase, 8<sup>th</sup> Cross, 19<sup>th</sup> main Road, 1<sup>st</sup> stage, BTM Layout, Bengaluru, Karnataka - 560029. <br>
+The Comfort level with top class Facilities are properly provided. Here we have Good environment and better ambience for living.  <br>
 A good initiative at a proper place and time. We are lucky enough to be a part of it. <br>
-Thank you livesta. 
+Thank you Devsheela. 
  </p>
                                     </div>
                                 </div>
@@ -344,7 +344,7 @@ Thank you livesta.
                                         <a href="#"><i class="icon icon-star"></i></a>
                                     </div>
                                     <div class="testi-text">
-                                        <p>It’s a great experience to live here in Livesta. I came here with the feeling that this will be like any other PG, but I was totally wrong. The ambience here is fantastic, It is just like a family. Here we have celebrations by Livesta. The rooms are kept neat and clean. Through regular daily cleaning, unlike other PG. we have more many other facilities here. More over the Livesta team is very approachable for any issues. Hence, I feel Livesta is the best I could get. 
+                                        <p>It’s a great experience to live here in Devsheela. I came here with the feeling that this will be like any other PG, but I was totally wrong. The ambience here is fantastic, It is just like a family. Here we have celebrations by Devsheela. The rooms are kept neat and clean. Through regular daily cleaning, unlike other PG. we have more many other facilities here. More over the Devsheela team is very approachable for any issues. Hence, I feel Devsheela is the best I could get. 
  </p>
                                     </div>
                                 </div>
@@ -365,7 +365,7 @@ Thank you livesta.
                                         <a href="#"><i class="icon icon-star"></i></a>
                                     </div>
                                     <div class="testi-text">
-                                        <p>I really honoured to saty here in livesta.  It is like my second home and I am glad I am living here. 
+                                        <p>I really honoured to saty here in Devsheela.  It is like my second home and I am glad I am living here. 
 </p>
                                     </div>
                                 </div>
@@ -406,7 +406,7 @@ Thank you livesta.
 						<div class="col-md-3 col-sm-3 col-xs-12">
 							<div class="fun_text">
                                 <span class="counter">3</span>
-                                <h5>Living Locations</h5>
+                                <h5>Living Location</h5>
 							</div>
 						</div>
 
